@@ -2,7 +2,7 @@
 
 Estudante de **Engenharia de Software** em Cuiabá-MT, apaixonado por transformar ideias em soluções reais.
 
-Atualmente estagiário na área de tecnologia, desenvolvendo projetos do zero — do layout ao servidor.
+Atualmente estagiário na área de tecnologia, desenvolvendo projetos do zero  do layout ao servidor.
 
 ---
 
